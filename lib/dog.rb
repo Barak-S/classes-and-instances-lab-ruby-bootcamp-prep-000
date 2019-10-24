@@ -2,5 +2,5 @@ class Dog
   
 end
 
-snoopy = new Dog
-lassie = new Dog
+snoopy = Dog.new
+lassie = Dog.new
